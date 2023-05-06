@@ -40,7 +40,7 @@ export default function Profile(props) {
 
         <div className="mt-5 flex items-center justify-between text-right">
           <a
-            className="underline text-sm"
+            className="underline text-sm bg-gray-700 py-1 px-2 rounded-lg shadow text-white text-xs inline-block opacity-75"
             href={props.html_url}
             target="_blank"
             rel="noreferrer"

@@ -46,7 +46,7 @@ function App() {
       <section className="repos">
       <div className="pt-6">
         <h1 className="mb-10 font-bold text-2xl">
-          Viewing {user}'s repositories
+          Viendo los repositorios de {user}
         </h1>
       </div>
 

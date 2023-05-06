@@ -90,7 +90,7 @@ p {
 .PageFooter{
   background-color: #353535;
   color: #fff;
-  margin-top: 5px;
+  margin-top: 3px;
   margin-left: 0px;
   margin-right: 0px;
   font-family: 'Josefin_Sans';
@@ -106,34 +106,10 @@ p {
   margin-top: -30px;
   margin-inline: 13%;
 }
-.intagram{
-  font-family: 'Josefin_Sans';
-  font-size: 20px;
-  margin-inline: 35px;
-  margin-top: 5px;
-  color: #d9d9d9;
-}
-.insta{
-  width: 30px; height: 30px;
-  margin-top: -30px;
-  padding-left: 3px;
-}
+
 .copy{
   font-family: 'Josefin_Sans';
   font-size: 20px;
   text-align: center;
-  color: #d9d9d9;
-}
-.ubicacion{
-  width: 30px; height: 30px;
-  margin-right: 70px;
-  margin-top: 5px;
-  padding-left: 3px;
-}
-.text4{
-  font-family: 'Josefin_Sans';
-  font-size: 20px;
-  margin-inline: 35px;
-  margin-top: -25px;
   color: #d9d9d9;
 }
